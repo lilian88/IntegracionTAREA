@@ -27,7 +27,7 @@ public class Nivel1c12 {
         while (bandera==0){
             System.out.println("ingrese su nombre de usuario ==> ");
             miusuario=mientrada.nextLine();
-            System.out.println("ingrese su clave ==> ");
+            System.out.println("ingrese su clave :");
             miclave=mientrada.nextLine();
             contador=contador+1;
             if ((usuario.equals(miusuario))&&(clave.equals(miclave))){
