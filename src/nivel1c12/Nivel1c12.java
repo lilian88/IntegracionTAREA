@@ -47,7 +47,10 @@ public class Nivel1c12 {
         }
             
         else{
-            System.out.println("sistema bloqueado");}
+            System.out.println("sistema bloqueado");
+        }
+    }
+}
     
     
 
