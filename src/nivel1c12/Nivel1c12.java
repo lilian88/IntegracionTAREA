@@ -21,7 +21,7 @@ public class Nivel1c12 {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner mientrada = new Scanner (System.in);
-        String clave="ilzo",usuario="irving";
+        String clave="1234",usuario="lilian";
         String miclave="",miusuario="";
         int contador=0,bandera=0;
         while (bandera==0){
